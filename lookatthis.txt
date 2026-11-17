@@ -1,0 +1,16 @@
+git remote add origin <repository-URL>
+
+git add 
+
+git commit -m ""
+
+git branch -m main
+
+git pull origin main --allow-unrelated-histories 
+
+INSIDE VIM:
+esc
+:wq
+enter
+
+push -u origin main
